@@ -1,0 +1,2 @@
+to show package location - pip show <package name>
+to install pachages pip install <package name>
